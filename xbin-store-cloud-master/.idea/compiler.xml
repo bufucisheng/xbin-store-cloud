@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xbin-store-cloud-admin" />
+        <module name="xbin-store-cloud-common" />
+        <module name="xbin-store-cloud-common-mapper" />
+        <module name="xbin-store-cloud-common-pojo" />
+        <module name="xbin-store-cloud-config" />
+        <module name="xbin-store-cloud-eureka" />
+        <module name="xbin-store-cloud-service-admin" />
+        <module name="xbin-store-cloud-service-admin-api" />
+        <module name="xbin-store-cloud-service-notify" />
+        <module name="xbin-store-cloud-service-notify-api" />
+        <module name="xbin-store-cloud-service-portal" />
+        <module name="xbin-store-cloud-service-portal-api" />
+        <module name="xbin-store-cloud-service-sso" />
+        <module name="xbin-store-cloud-service-sso-api" />
+        <module name="xbin-store-cloud-sleuth" />
+        <module name="xbin-store-cloud-turbine" />
+        <module name="xbin-store-cloud-web-admin" />
+        <module name="xbin-store-cloud-web-portal" />
+        <module name="xbin-store-cloud-web-sso" />
+        <module name="xbin-store-cloud-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="xbin-store-cloud-admin" target="1.8" />
+      <module name="xbin-store-cloud-common" target="1.8" />
+      <module name="xbin-store-cloud-common-mapper" target="1.8" />
+      <module name="xbin-store-cloud-common-pojo" target="1.8" />
+      <module name="xbin-store-cloud-config" target="1.8" />
+      <module name="xbin-store-cloud-eureka" target="1.8" />
+      <module name="xbin-store-cloud-master" target="1.8" />
+      <module name="xbin-store-cloud-service-admin" target="1.8" />
+      <module name="xbin-store-cloud-service-admin-api" target="1.8" />
+      <module name="xbin-store-cloud-service-cart" target="1.8" />
+      <module name="xbin-store-cloud-service-cart-api" target="1.8" />
+      <module name="xbin-store-cloud-service-item" target="1.8" />
+      <module name="xbin-store-cloud-service-item-api" target="1.8" />
+      <module name="xbin-store-cloud-service-notify" target="1.8" />
+      <module name="xbin-store-cloud-service-notify-api" target="1.8" />
+      <module name="xbin-store-cloud-service-order" target="1.8" />
+      <module name="xbin-store-cloud-service-order-api" target="1.8" />
+      <module name="xbin-store-cloud-service-portal" target="1.8" />
+      <module name="xbin-store-cloud-service-portal-api" target="1.8" />
+      <module name="xbin-store-cloud-service-search" target="1.8" />
+      <module name="xbin-store-cloud-service-search-api" target="1.8" />
+      <module name="xbin-store-cloud-service-sso" target="1.8" />
+      <module name="xbin-store-cloud-service-sso-api" target="1.8" />
+      <module name="xbin-store-cloud-sleuth" target="1.8" />
+      <module name="xbin-store-cloud-turbine" target="1.8" />
+      <module name="xbin-store-cloud-web-admin" target="1.8" />
+      <module name="xbin-store-cloud-web-cart" target="1.8" />
+      <module name="xbin-store-cloud-web-item" target="1.8" />
+      <module name="xbin-store-cloud-web-order" target="1.8" />
+      <module name="xbin-store-cloud-web-portal" target="1.8" />
+      <module name="xbin-store-cloud-web-search" target="1.8" />
+      <module name="xbin-store-cloud-web-sso" target="1.8" />
+      <module name="xbin-store-cloud-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

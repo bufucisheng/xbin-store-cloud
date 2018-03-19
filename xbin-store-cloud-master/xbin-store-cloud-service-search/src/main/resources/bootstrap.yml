@@ -1,0 +1,25 @@
+spring:
+  application:
+    name: xbin-store-cloud-service-search
+  data:
+    solr:
+      host: http://192.168.125.131:8080/solr/#/collection1
+      #zkHost:
+      repositories:
+        enabled: false
+
+security.basic.enabled: false
+
+server:
+  port: ${service.server.port:8512}
+
+management:
+  security:
+    enabled: false
+
+eureka:
+  instance:
+    status-page-url: http://localhost:${server.port}/swagger-ui.html # ${server.port}为该服务的端口号
+  client:
+    serviceUrl:
+      defaultZone: ${eureka.serviceUrl:http://127.0.0.1:8503/eureka/}

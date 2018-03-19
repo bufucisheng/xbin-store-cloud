@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.." charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-common-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-common-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-service-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-service-admin-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-service-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-service-cart-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-service-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-service-item-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-service-notify" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-service-notify-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-service-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-service-order-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-service-portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-service-portal-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-service-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-service-search-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-service-sso" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-service-sso-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-sleuth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-turbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-web-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-web-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-web-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-web-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-web-portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-web-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-web-sso" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../xbin-store-cloud-zuul" charset="UTF-8" />
+  </component>
+</project>

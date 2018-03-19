@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-admin/xbin-store-cloud-admin.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-admin/xbin-store-cloud-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-common/xbin-store-cloud-common.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-common/xbin-store-cloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-common-mapper/xbin-store-cloud-common-mapper.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-common-mapper/xbin-store-cloud-common-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-common-pojo/xbin-store-cloud-common-pojo.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-common-pojo/xbin-store-cloud-common-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xbin-store-cloud-eureka.iml" filepath="$PROJECT_DIR$/xbin-store-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-master.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-service-admin/xbin-store-cloud-service-admin.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-service-admin/xbin-store-cloud-service-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-service-admin-api/xbin-store-cloud-service-admin-api.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-service-admin-api/xbin-store-cloud-service-admin-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-service-cart/xbin-store-cloud-service-cart.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-service-cart/xbin-store-cloud-service-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-service-cart-api/xbin-store-cloud-service-cart-api.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-service-cart-api/xbin-store-cloud-service-cart-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-service-item/xbin-store-cloud-service-item.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-service-item/xbin-store-cloud-service-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-service-item-api/xbin-store-cloud-service-item-api.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-service-item-api/xbin-store-cloud-service-item-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-service-notify/xbin-store-cloud-service-notify.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-service-notify/xbin-store-cloud-service-notify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-service-notify-api/xbin-store-cloud-service-notify-api.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-service-notify-api/xbin-store-cloud-service-notify-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-service-order/xbin-store-cloud-service-order.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-service-order/xbin-store-cloud-service-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-service-order-api/xbin-store-cloud-service-order-api.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-service-order-api/xbin-store-cloud-service-order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-service-portal/xbin-store-cloud-service-portal.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-service-portal/xbin-store-cloud-service-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-service-portal-api/xbin-store-cloud-service-portal-api.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-service-portal-api/xbin-store-cloud-service-portal-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-service-search/xbin-store-cloud-service-search.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-service-search/xbin-store-cloud-service-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-service-search-api/xbin-store-cloud-service-search-api.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-service-search-api/xbin-store-cloud-service-search-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-service-sso/xbin-store-cloud-service-sso.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-service-sso/xbin-store-cloud-service-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-service-sso-api/xbin-store-cloud-service-sso-api.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-service-sso-api/xbin-store-cloud-service-sso-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-sleuth/xbin-store-cloud-sleuth.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-sleuth/xbin-store-cloud-sleuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-turbine/xbin-store-cloud-turbine.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-turbine/xbin-store-cloud-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-web-admin/xbin-store-cloud-web-admin.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-web-admin/xbin-store-cloud-web-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-web-cart/xbin-store-cloud-web-cart.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-web-cart/xbin-store-cloud-web-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-web-item/xbin-store-cloud-web-item.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-web-item/xbin-store-cloud-web-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-web-order/xbin-store-cloud-web-order.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-web-order/xbin-store-cloud-web-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-web-portal/xbin-store-cloud-web-portal.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-web-portal/xbin-store-cloud-web-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-web-search/xbin-store-cloud-web-search.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-web-search/xbin-store-cloud-web-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-web-sso/xbin-store-cloud-web-sso.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-web-sso/xbin-store-cloud-web-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xbin-store-cloud-zuul/xbin-store-cloud-zuul.iml" filepath="$PROJECT_DIR$/../xbin-store-cloud-zuul/xbin-store-cloud-zuul.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/xbin-store-cloud-config/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/xbin-store-cloud-service-cart-api/pom.xml" />
+        <option value="$PROJECT_DIR$/xbin-store-cloud-service-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/xbin-store-cloud-service-item-api/pom.xml" />
+        <option value="$PROJECT_DIR$/xbin-store-cloud-service-item/pom.xml" />
+        <option value="$PROJECT_DIR$/xbin-store-cloud-service-order-api/pom.xml" />
+        <option value="$PROJECT_DIR$/xbin-store-cloud-service-order/pom.xml" />
+        <option value="$PROJECT_DIR$/xbin-store-cloud-service-search-api/pom.xml" />
+        <option value="$PROJECT_DIR$/xbin-store-cloud-service-search/pom.xml" />
+        <option value="$PROJECT_DIR$/xbin-store-cloud-web-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/xbin-store-cloud-web-item/pom.xml" />
+        <option value="$PROJECT_DIR$/xbin-store-cloud-web-order/pom.xml" />
+        <option value="$PROJECT_DIR$/xbin-store-cloud-web-search/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
